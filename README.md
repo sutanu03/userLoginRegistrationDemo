@@ -5,9 +5,9 @@ User Login and registration using JSP,Servlet,JDBC,MySql
 <br> for sql i used MySQL
 <br> database name logindb and table name regis
 <br> select * from regis;<br>
-+--------+---------------+--------------------------+-------------+--------+----------+
-| userid | name          | email                    | password    | gender | city     |
-+--------+---------------+--------------------------+-------------+--------+----------+
-|      1 | NULL          | NULL                     | NULL        | NULL   | NULL     |
++--------+---------------+--------------------------+-------------+--------+----------+<br>
+| userid | name          | email                    | password    | gender | city     |<br>
++--------+---------------+--------------------------+-------------+--------+----------+<br>
+|      1 | NULL          | NULL                     | NULL        | NULL   | NULL     |<br>
 <br>
 
