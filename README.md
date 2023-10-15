@@ -6,8 +6,8 @@ User Login and registration using JSP,Servlet,JDBC,MySql
 <br> database name logindb and table name regis
 <br> select * from regis;<br>
 +--------+---------------+--------------------------+-------------+--------+----------+<br>
-| userid | name          | email                    | password    | gender | city     |<br>
+| userid<t>  | name<t>          | email<t>                     | password <t>    | gender<t>  | city <t>     |<br>
 +--------+---------------+--------------------------+-------------+--------+----------+<br>
-|      1 | NULL          | NULL                     | NULL        | NULL   | NULL     |<br>
+|      1<t>  | NULL <t>          | NULL    <t>                  | NULL   <t>      | NULL <t>   | NULL <t>     |<br>
 <br>
 
