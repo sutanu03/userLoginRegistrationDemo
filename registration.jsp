@@ -29,6 +29,6 @@
 	</form>
 	
 	<h3>Click here to login</h3>
-<a href="login.jsp">Click here</a>
+	<button onclick="document.location='login.jsp'">Login page</button>
 </body>
 </html>
