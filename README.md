@@ -8,6 +8,6 @@ User Login and registration using JSP,Servlet,JDBC,MySql
 +--------+---------------+--------------------------+-------------+--------+----------+
 | userid | name          | email                    | password    | gender | city     |
 +--------+---------------+--------------------------+-------------+--------+----------+
-|      1 | Sutanu Ghosal | sutanughosal1@gmail.com  | sutanu123   | Male   | Kolkata  |
+|      1 | NULL          | NULL                     | NULL        | NULL   | NULL     |
 <br>
 
