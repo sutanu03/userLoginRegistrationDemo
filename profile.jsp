@@ -10,7 +10,7 @@
 
 <h3 style="color: blue;">Welcome : ${name}</h3>
 
-<a href="login.jsp">Logout</a>
+<button onclick="document.location='login.jsp'">Logout</button>
 
 </body>
 </html>
