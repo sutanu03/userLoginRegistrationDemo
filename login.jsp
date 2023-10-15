@@ -19,8 +19,8 @@ Password : <input type="password" name="password1" placeholder="Enter your passw
 </form>
 
 
-<h3>Click here to register</h3>
-<a href="registration.jsp">Click here</a>
+<h3>Click here for Registration</h3>
+	<button onclick="document.location='registration.jsp'">Registration page</button>
 
 </body>
 </html>
